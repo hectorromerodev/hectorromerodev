@@ -13,8 +13,8 @@ I'm a Frontend Developer and have some knowledge of NodeJs for Backend Developme
 - I’m currently working on **Javascript, Ionic, Angular Material, MySQL, NodeJS** and **Firebase**.
 - I’m currently learning **CSS, bootstrap** and **Rxjs**.
 ## 💬 Teaching
-- Youtube channel. [DevHack](https://www.youtube.com/devhack)
-- Podcast. [Snnipets Tech](https://anchor.fm/jggomez)
+- Youtube channel. [Meraki Developer](https://www.youtube.com/channel/UCO7q9cKmlyEvZPdD5UsUHfQ)
+- Podcast. [Software Engineering](https://anchor.fm/hectorromerodev)
 ## 🔭 Ask me 🤔
 - 💬  Ask me about anything and everything.
 - 🔔  Subscribe my videos: [Meraki Developer](https://www.youtube.com/channel/UCO7q9cKmlyEvZPdD5UsUHfQ)
