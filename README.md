@@ -7,21 +7,16 @@
 
 I'm a Frontend Developer and have some knowledge of NodeJs for Backend Development. I currently work as Frontend and Backend developer on a private company.
  
-## ⚡ Communities and Short CV
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hectorromerodev&layout=compact)
-
 ## 🚀 Technologies
-- I’m currently working on **Javascript, Ionic, Angular Material, MySQL, NodeJS** and **Firebase**.
-- I’m currently learning **CSS, bootstrap** and **Rxjs**.
+- I’m currently working on **Javascript, HTML, CSS, Ionic, Angular, Vue, NodeJS** and **Firebase**.
+- I’m currently learning **BULMA, TAILWINDCSS** and **PINIA**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorromerodev&hide=ruby&layout=compact)
 
 ## 💬 Teaching
-- Youtube channel. [Meraki Developer](https://www.youtube.com/channel/UCO7q9cKmlyEvZPdD5UsUHfQ)
 - Podcast. [Software Engineering](https://anchor.fm/hectorromerodev)
 ## 🔭 Ask me 🤔
-- 💬  Ask me about anything and everything.
-- 🔔  Subscribe my videos: [Meraki Developer](https://www.youtube.com/channel/UCO7q9cKmlyEvZPdD5UsUHfQ)
+- 💬  Ask me about open soruce projects or any tech I have used.
 - 🔔  Subscribe my podcast: [hectorromerodev](https://anchor.fm/hectorromerodev)
 
 ![Hector Romero stats](https://github-readme-stats.vercel.app/api?username=hectorromerodev&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true)
