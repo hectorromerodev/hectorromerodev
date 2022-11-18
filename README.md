@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-hectorromerodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hectorromerodev/)](https://www.linkedin.com/in/hectorromerodev/)
 [![Gmail Badge](https://img.shields.io/badge/-hectorromerodev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=hectorromerodev@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&to=hectorromerodev@gmail.com)
 
+[![@hectorromerodev's Holopin board](https://holopin.me/hectorromerodev)](https://holopin.io/@hectorromerodev)
+
 I'm a Frontend Developer and have some knowledge of NodeJs for Backend Development. I currently work as Frontend and Backend developer on a private company.
  
 ## 🚀 Technologies
