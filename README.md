@@ -1,8 +1,11 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hector Romero
+Hi My name is Hector Romero
 =====================================================================================================================================
+
 [![@hectorromerodev's Holopin board](https://holopin.me/hectorromerodev)](https://holopin.io/@hectorromerodev)
-Web Developer
+
+Fullstack Web Developer
+
 -------------
 
 Full stack Developer with over 6 years of experience with RESTful API connections and web applications. Using JavaScript, HTML5, CSS3, and Git. Frameworks and libraries such as MEAN stack (MongoDB, Express, Angular, Node.js), Ionic and TailwindCSS. I'm a proactive and detail-oriented individual and always looking to learn new technologies and techniques to improve my skills and deliver high-quality work.
