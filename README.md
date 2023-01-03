@@ -1,18 +1,14 @@
 
-Hi My name is Hector Romero
+Hector Romero <Fullstack Web Developer\/>
 =====================================================================================================================================
-
 [![@hectorromerodev's Holopin board](https://holopin.me/hectorromerodev)](https://holopin.io/@hectorromerodev)
-
-Fullstack Web Developer
-
 -------------
 
 Full stack Developer with over 6 years of experience with RESTful API connections and web applications. Using JavaScript, HTML5, CSS3, and Git. Frameworks and libraries such as MEAN stack (MongoDB, Express, Angular, Node.js), Ionic and TailwindCSS. I'm a proactive and detail-oriented individual and always looking to learn new technologies and techniques to improve my skills and deliver high-quality work.
 
 Also, I have experience working on a variety of projects, from small to large, complex web applications. I have contributed to develop a social media app, package delivery, enterprise desktop apps and more. As someone who is dedicated to continuous learning and self-improvement, I am eager to find a remote job that allows me to work from anywhere in the world. I am a hard-working individual with a growth mindset and believe in the power of effort and perseverance to achieve success.
 
-If you feel that I would be a good fit for your company, please send me a DM, and we can discuss further. — <a href="mailto:hectorromerodev@gmail.com" target="_blank" rel="noreferrer">hectorromerodev@gmail.com</a> or <a href="tel:+526644727332" target="_blank" rel="noreferrer">(+52) 664 472 7332</a>
+If you feel that I would be a good fit for your company, please send me a DM, and we can discuss further. — <a href="mailto:hectorromerodev@gmail.com" target="_blank" rel="noreferrer">hectorromerodev@gmail.com</a> or <a href="tel:526644727332" target="_blank" rel="noreferrer">(+52) 664 472 7332</a>
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [HR-WEBDEV.COM](http://hr-webdev.com)
