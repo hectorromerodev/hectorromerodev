@@ -8,13 +8,8 @@ Full stack Developer with over 6 years of experience with RESTful API connection
 
 Also, I have experience working on a variety of projects, from small to large, complex web applications. I have contributed to develop a social media app, package delivery, enterprise desktop apps and more. As someone who is dedicated to continuous learning and self-improvement, I am eager to find a remote job that allows me to work from anywhere in the world. I am a hard-working individual with a growth mindset and believe in the power of effort and perseverance to achieve success.
 
-If you feel that I would be a good fit for your company, please send me a DM, and we can discuss further. — <a href="mailto:hectorromerodev@gmail.com" target="_blank" rel="noreferrer">hectorromerodev@gmail.com</a> or <a href="tel:526644727332" target="_blank" rel="noreferrer">(+52) 664 472 7332</a>
-
-* 🌍  I'm based in Mexico
-* 🖥️  See my portfolio at [HR-WEBDEV.COM](http://hr-webdev.com)
-* ✉️  You can contact me at [info@hr-webdev.com](mailto:info@hr-webdev.com)
-* 🚀  I'm currently working on [Todo App](http://todo-e99d3.web.app/)
-* 🧠  I'm learning Vue 3, Pinia and Bulma.io
+* ✉️  You can contact me at [info@hr-webdev.com](mailto:info@hr-webdev.com) or <a href="tel:526644727332" target="_blank" rel="noreferrer">(+52) 664 472 7332</a>
+* 🧠  I'm learning NextJS and React.
 * 🤝  I'm open to collaborating on Open Source
 
 ### Skills
@@ -37,8 +32,16 @@ If you feel that I would be a good fit for your company, please send me a DM, an
 </p>
 
 ### Socials
+ 
+ <p align="left">
+ 
+<!-- <a href="https://www.dev.to/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> 
+  
+  <a href="https://www.github.com/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  -->
+  
+<!--   <a href="https://hectorromerodev.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  -->
 
-<p align="left"> <a href="https://www.dev.to/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://hectorromerodev.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ <a href="https://www.linkedin.com/in/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hectorromerodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
